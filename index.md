@@ -5,7 +5,7 @@ layout: post
 
 ## 关于我
 
-生活和学习在伦敦的一个PhD （University College Lodnon）, 主要研究方向是将机器学习应用于无人船舶（autonomou ship）。喜欢旅行和购物等新鲜东西。
+生活和学习在伦敦的一个PhD （[University College Lodnon](https://www.ucl.ac.uk/)）, 主要研究方向是将机器学习应用于无人船舶（autonomou ship）。喜欢旅行和购物等新鲜东西。
 
 ## 对博客的理解
 
