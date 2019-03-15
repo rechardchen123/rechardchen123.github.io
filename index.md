@@ -5,7 +5,7 @@ layout: post
 
 ## 关于我
 
-生活和学习在伦敦的一个PhD ([University College Lodnon](https://www.ucl.ac.uk/)), 主要研究方向是将机器学习应用于无人船舶([autonomous ship](https://en.wikipedia.org/wiki/MV_Yara_Birkeland))。喜欢旅行和购物等新鲜东西。
+生活和学习在伦敦的一个PhD ([University College Lodnon](https://www.ucl.ac.uk/)), 主要研究方向是将机器学习应用于无人船舶([autonomous ship](https://en.wikipedia.org/wiki/MV_Yara_Birkeland))。
 
 ## 对博客的理解
 
@@ -13,7 +13,7 @@ layout: post
 
 通过博客，我们可以记录自己的生活和成长的轨迹。它不像 Twitter 那样碎片化，也不像 Facebook 那样关系化，它是私人的空间。
 
-分类有助于我们对信息的隔离，例如我把自己的记录分成这几类：技术、工具、资源、生活、读书和旅游。这是我生活重中最重要的几个类别，我希望把自己的一些心得和尝试写在相应分类中。
+分类有助于我们对信息的隔离，例如我把自己的记录分成这几类：技术、工具、资源、生活、读书。我希望把自己的一些心得和尝试写在相应分类中。
 
 
 以上分享来自于本博客模板博主所写，觉得非常切合我自己的生活轨迹，保留下来。
